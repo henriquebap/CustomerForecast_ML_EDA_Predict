@@ -98,6 +98,8 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Este notebook foi desenvolvido por Henrique Baptista.
 
+[Link do Repositorio do Projeto](https://github.com/henriquebap/CustomerForecast_ML_EDA_Predict)
+
 ### Contato
 
 - **LinkedIn**: [Henrique Baptista](https://www.linkedin.com/in/henrique-baptista777/)
