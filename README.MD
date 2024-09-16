@@ -43,9 +43,9 @@ O projeto utiliza os seguintes conjuntos de dados:
 
 Os modelos de ensemble (Random Forest e XGBoost) demonstraram desempenho superior em comparação com a Regressão Logística na tarefa de classificação de vendas acima ou abaixo da mediana.
 
-### Gráficos de Desempenho dos Modelos
+### Gráfico de Desempenho dos Modelo
 
-[Espaço reservado para inserir imagens dos gráficos de desempenho dos modelos]
+![RandomForestROC](https://github.com/henriquebap/CustomerForecast_ML_EDA_Predict/blob/main/images/RandomForestROC.png)
 
 ### Melhor Modelo e Avaliação
 
