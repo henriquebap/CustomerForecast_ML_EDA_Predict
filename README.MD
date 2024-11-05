@@ -116,7 +116,7 @@ pip install -r requirements.txt
 ## Participantes do Grupo
 
 - 98469 - Pedro Duarte Farias
-- 552489 - FELIPE DE ALMEIDA CARDOSO
+- 98413 - Matheus Castro
 - 551322 - Gabriel Caverzan
 - 551582 - Leonardo Valencio Dourado
 - 97796 - Henrique Oliveira Baptista
