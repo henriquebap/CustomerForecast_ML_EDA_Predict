@@ -1,4 +1,3 @@
-
 # Projeto de Previsão de Comportamento do Cliente
 
 ## Visão Geral
@@ -54,13 +53,50 @@ O modelo Random Forest foi selecionado como o melhor modelo para este projeto. A
 - F1-Score: 1.0
 - Área sob a curva ROC: 1.0
 - Matriz de Confusão: (array([[3, 0],
-  						[0, 2]]),
+  [0, 2]]),
 
 ## Próximos Passos
 
 - Implantar o modelo na nuvem (por exemplo, Azure ML) para uso em produção.
 - Desenvolver uma interface de usuário para facilitar o uso do modelo por não-técnicos.
 - Continuar refinando o modelo com dados atualizados e feedback dos usuários.
+
+## Instalação e Execução
+
+### Pré-requisitos
+
+Certifique-se de ter as seguintes dependências instaladas:
+
+- Python 3.7 ou superior
+- Jupyter Notebook
+- Git (opcional para clonar o repositório)
+- Bibliotecas Python listadas no arquivo `requirements.txt`
+
+### Passos de Instalação
+
+1. Clone este repositório (ou faça o download diretamente):
+
+```bash
+git clone https://github.com/henriquebap/CustomerForecast_ML_EDA_Predict.git
+cd CustomerForecast_ML_EDA_Predict
+```
+
+2. Instale as bibliotecas necessárias:
+
+```
+pip install -r requirements.txt
+```
+
+### Executando o Projeto
+
+1. Inicie o Jupyter Notebook:
+
+```
+jupyter notebook
+```
+
+2. Abra o arquivo `.ipynb` do notebook principal na interface do Jupyter.
+3. Siga as instruções dentro do notebook para carregar o dataset, realizar a análise exploratória e executar o modelo de previsão de clientes.
 
 ## Como Usar
 
